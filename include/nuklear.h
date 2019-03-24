@@ -1,6 +1,8 @@
 #ifndef NK_NUKLEAR_H_
 #define NK_NUKLEAR_H_
 
+#include "nuklear_config.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
